@@ -24,9 +24,8 @@ I enjoy building projects, understanding how things work under the hood, and lea
 - AI applications and LLM-based workflows
 - Software design and development
 
-### Looking for an internship
+### I'm currently looking for:
 
-I'm currently looking for:
 - **An apprenticeship** in AI, machine learning, data science, or software development.
 - **An internship** starting April 26, 2027, for at least 8 weeks, in one of these fields.
 ---
