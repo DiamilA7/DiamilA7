@@ -14,9 +14,9 @@ I enjoy building projects, understanding how things work under the hood, and lea
 ### Featured Projects
 
 - **[MyChatBots](https://github.com/DiamilA7/MyChatBots)** — Conversational AI and LLM workflows built with Python and LangGraph.
-- **[Quizzy](https://github.com/DiamilA7/Quizzy_Job)** — An interactive quiz application designed to make learning more engaging.
 - **[Predikt-It](https://github.com/DiamilA7/Predik-it)** — A machine learning project exploring student performance prediction using Python and scikit-learn.
 - **[Spellcoo](https://github.com/DiamilA7/SPELLCOO)**— A spell-checking program in C using hash tables and edit-distance algorithms.
+- **[Quizzy](https://github.com/DiamilA7/Quizzy_Job)** — An interactive quiz application designed to make learning more engaging.
 
 ### Currently learning
 
