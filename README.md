@@ -1,7 +1,7 @@
 
 # Hi, I'm Diamil 👋
 
-I'm a Computer Science student interested in software development, data science, and artificial intelligence.
+I'm a Computer Science student interested in artificial intelligenc,data science and software development .
 
 I enjoy building projects, understanding how things work under the hood, and learning by experimenting.
 
@@ -13,9 +13,10 @@ I enjoy building projects, understanding how things work under the hood, and lea
 
 ### Featured Projects
 
-- **[Predikt-It](https://github.com/DiamilA7/Predikt-it)** — A machine learning project exploring student performance prediction using Python and scikit-learn.
-- **Spellcoo** — A spell-checking program in C using hash tables and edit-distance algorithms.
-- **[MyChatBots](https://github.com/DiamilA7/MyChatBots)** — Conversational AI experiments using Python and LangGraph.
+- **[MyChatBots](https://github.com/DiamilA7/MyChatBots)** — Conversational AI and LLM workflows built with Python and LangGraph.
+- **[Quizzy](https://github.com/DiamilA7/Quizzy_Job)** — An interactive quiz application designed to make learning more engaging.
+- **[Predikt-It](https://github.com/DiamilA7/Predik-it)** — A machine learning project exploring student performance prediction using Python and scikit-learn.
+- **[Spellcoo](https://github.com/DiamilA7/SPELLCOO)**— A spell-checking program in C using hash tables and edit-distance algorithms.
 
 ### Currently learning
 
@@ -25,8 +26,9 @@ I enjoy building projects, understanding how things work under the hood, and lea
 
 ### Looking for an internship
 
-I'm looking for an internship in **AI, data science, or software development**, starting **April 26, 2027**, for at least **8 weeks**.
-
+I'm currently looking for:
+- **An apprenticeship** in AI, machine learning, data science, or software development.
+- **An internship** starting April 26, 2027, for at least 8 weeks, in one of these fields.
 ---
 
 Feel free to explore my repositories!
